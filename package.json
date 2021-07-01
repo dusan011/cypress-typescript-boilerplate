@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dusan011/cypress-typescript-boilerplate/issues"
   },
-  "homepage": "https://github.com/dusan011/cypress-typescript-boilerplate#readme"
+  "homepage": "https://github.com/dusan011/cypress-typescript-boilerplate#readme",
+  "devDependencies": {
+    "cypress": "^7.6.0"
+  }
 }
