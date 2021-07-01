@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dusan011/cypress-typescript-boilerplate#readme",
   "devDependencies": {
-    "cypress": "^7.6.0"
+    "cypress": "^7.6.0",
+    "typescript": "^4.3.5"
   }
 }
